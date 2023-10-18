@@ -1,0 +1,96 @@
+				>> Ticket Confirmed << 
+____________________________________________________________________
+Air Sial/PF-2022  Boarding Pass 
+First name: Mohammad    Last name: Owais
+Date: 12/12/2023    Phone no. : +92-312-13615431
+Ticket no. : 02821    Baggage no. : 3F02C    Boarding Time: 19:00 
+Destination: Islamabad to Karachi    Price: Business / Rs 33,500
+____________________________________________________________________
+				>> Ticket Confirmed << 
+____________________________________________________________________
+PIA/PK-301  Boarding Pass 
+First name: Talha    Last name: AB-Rehman
+Date: 12/12/2023    Phone no. : +92-312-1235162
+Ticket no. : 77DFB    Baggage no. : B35E6    Boarding Time: 22:30 
+Destination: Islamabad to Peshawar    Price: Business / Rs 22,500
+____________________________________________________________________
+				>> Ticket Confirmed << 
+____________________________________________________________________
+PIA/PK-242  Boarding Pass 
+First name: Mojo    Last name: jojo
+Date: 12/12/2023    Phone no. : +92-314-1312312
+Ticket no. : D3DEF    Baggage no. : 1F5DA    Boarding Time: 3:00 
+Destination: Islamabad to Quetta    Price: Business / Rs 41,500
+____________________________________________________________________
+				>> Ticket Confirmed << 
+____________________________________________________________________
+Air Sial/PF-969  Boarding Pass 
+First name: Mohammad    Last name: Bilal
+Date: 12/04/2014    Phone no. : 0312-1231237
+Ticket no. : 815CE    Baggage no. : CEEB8    Boarding Time: 23:30 
+Destination: Islamabad to Multan    Price: Business / Rs 32,500
+____________________________________________________________________
+				>> Ticket Confirmed << 
+____________________________________________________________________
+PIA/PK-302  Boarding Pass 
+First name: Saad    Last name: Ahmad
+Date: 12/07/2015    Phone no. : 0312-1231244
+Ticket no. : A99D7    Baggage no. : D61C2    Boarding Time: 12:30 
+Destination: Islamabad to Lahore    Price: Economy / Rs 17,500
+____________________________________________________________________
+				>> Ticket Confirmed << 
+____________________________________________________________________
+Air Blue/PA-210  Boarding Pass 
+First name: Haris    Last name: Ahmad
+Date: 12/12/2023    Phone no. : 043-1237492
+Ticket no. : 855E6    Baggage no. : B1DD1    Boarding Time: 14:00 
+Destination: Islamabad to Dubai    Price: Business / Rs 65,000
+____________________________________________________________________
+				>> Ticket Confirmed << 
+____________________________________________________________________
+Emirates/EK-613  Boarding Pass 
+First name: Faris    Last name: Ahmad
+Date: 23/10/2016    Phone no. : 0232-1233674
+Ticket no. : 321D0    Baggage no. : 6E9CA    Boarding Time: 16:00 
+Destination: Islamabad to Paris    Price: Economy / Rs 70,550
+____________________________________________________________________
+				>> Ticket Confirmed << 
+____________________________________________________________________
+Qatar/QR-623  Boarding Pass 
+First name: Talha    Last name: AB-rehman
+Date: 13/12/2017    Phone no. : 0312-1246184
+Ticket no. : 601C2    Baggage no. : 9DABC     Boarding Time: 22:00 
+Destination: Islamabad to Germany    Price: Business / Rs 97,500
+____________________________________________________________________
+				>> Ticket Confirmed << 
+____________________________________________________________________
+PIA/PK-302  Boarding Pass 
+First name: Mohammad    Last name: Owais
+Date: 12/12/2025    Phone no. : 0132-12384326
+Ticket no. : 82339    Baggage no. : BEB34    Boarding Time: 12:30 
+Destination: Islamabad to Lahore    Price: Business / Rs 25,500
+____________________________________________________________________
+				>> Ticket Confirmed << 
+____________________________________________________________________
+Air Blue/PA-210  Boarding Pass 
+First name: Shahzeb    Last name: Ahmad
+Date: 04/01/2023    Phone no. : +92-312-1242324
+Ticket no. : EF018    Baggage no. : 1C803    Boarding Time: 14:00 
+Destination: Islamabad to Dubai    Price: Business / Rs 65,000
+____________________________________________________________________
+				>> Ticket Confirmed << 
+____________________________________________________________________
+Air Sial/PF-2022  Boarding Pass 
+First name: Faris    Last name: Ahmad
+Date: 12/04/2023    Phone no. : +92-312-0175471
+Ticket no. : A0C2C    Baggage no. : EC426    Boarding Time: 19:00 
+Destination: Islamabad to Karachi    Price: Business / Rs 33,500
+____________________________________________________________________
+				>> Ticket Confirmed << 
+____________________________________________________________________
+Air Sial/PF-969  Boarding Pass 
+First name: ali    Last name: murtaza
+Date: 12/10/2002    Phone no. : 33201646512
+Ticket no. : 96319    Baggage no. : C2B03    Boarding Time: 23:30 
+Destination: Islamabad to Multan    Price: Business / Rs 32,500
+____________________________________________________________________

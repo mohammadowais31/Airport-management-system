@@ -1,0 +1,16 @@
+______________________________________
+First name: Talha
+Last name: Ab-Rehman
+CNIC: 33204-122234567-1
+Address: Pindi
+Department: Pilot
+Salary: 150,000-Rs
+______________________________________
+______________________________________
+First name: Faris
+Last name: Ahmad
+CNIC: 33204-122234567-1
+Address: Pindi
+Department: Pilot
+Salary: 150,000-Rs
+______________________________________
